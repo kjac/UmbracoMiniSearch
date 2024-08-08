@@ -1,0 +1,21 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "service": "node index.js",
+    "seed": "node seed.js"
+  },
+  "keywords": [],
+  "author": "Kenn Jacobsen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-basic-auth": "^1.2.1",
+    "minisearch": "^6.3.0",
+    "proper-lockfile": "^4.1.2"
+  }
+}

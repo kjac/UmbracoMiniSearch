@@ -1,0 +1,16 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "client": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kenn Jacobsen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
